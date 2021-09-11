@@ -1,9 +1,9 @@
-### Hi there 👋
+### Senhores,
 
 
-- 🔭 O pai amassa ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- Busco desenvolver automações para sistemas Linux,
+- Automatizar ferramentas de segurança da Informação,
+- Expor meus trabalhos acadêmicos.
 
 <div>
   <a href="https://github.com/diegomatheusc">
