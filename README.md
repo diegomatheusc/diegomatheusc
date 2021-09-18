@@ -1,6 +1,5 @@
 <h1> 🧐 </h1>
 
-
 - Busco desenvolver automações para sistemas Linux,
 - Automatizar ferramentas de segurança da Informação,
 - Expor meus trabalhos acadêmicos.
