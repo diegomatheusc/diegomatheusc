@@ -11,11 +11,7 @@
 </div>
   
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="ShellScript" height="40" width="130" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"> 
-  <img align="center" alt="Ubuntu" height="40" width="110" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
-  <img align="center" alt="JS" height="40" width="150" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  </div>
+
   
   
  
