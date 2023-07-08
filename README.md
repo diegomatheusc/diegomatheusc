@@ -2,7 +2,7 @@
 
 - Automações Linux;
 - Automação de ferramentas de Segurança da Informação;
-- Observability
+- Observability.
 ##
 <div>
   <a href="https://github.com/diegomatheusc">
