@@ -1,8 +1,8 @@
-<h1> 🧐 </h1>
+<h1> Nesse repositório costumo expor </h1>
 
-- Busco desenvolver automações para sistemas Linux,
-- Automatizar ferramentas de segurança da Informação,
-- Expor meus trabalhos acadêmicos.
+- Automações Linux;
+- Automação de ferramentas de Segurança da Informação;
+- Observability
 ##
 <div>
   <a href="https://github.com/diegomatheusc">
