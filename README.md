@@ -8,6 +8,9 @@
 <div>
 <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+ ce Certification" width="100"  height="100">
 <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="100" height="100">
+<img src="https://www.fortinet.com/content/dam/fortinet/images/training/icon-nse-3.png" alt="Fortinet NSE 3" width="100" height="100">
+
+  
 </div>
 
 <h2>Stack</h2>
