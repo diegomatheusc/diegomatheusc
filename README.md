@@ -2,7 +2,10 @@
 
 - 👨‍🔧 IT professional with experience in Infrastructure, Networks and Cloud, 25 years old, Brazil.
 - 🔒☁️ Information Security and Cloud (AWS) student. 
-- 🐧⚙️ Automations, Observability, Security, and Linux.  
+- 🐧⚙️ Automations, Observability, Security, and Linux.
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/diegomatheusc.png" alt="TryHackMe">
+
 
 <h2>Badges</h2>
 <div>
